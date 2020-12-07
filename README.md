@@ -10,15 +10,16 @@ ls implemented
 1. Install node.js -> it will automatically install npm
 2. Get to main folder (simplici.me)through terminal
 3. type npm i   -> it will download necessary dependencies
-4. type node  to run project
+4. type node user_input.js to run project
 
 ## technologies
 
 > React</br>
 > Sass</br>
-> Firebase</br>
-> Material UI</br>
+> Node</br>
+> Filesystem</br>
+> Readline</br>
  
 ## goal
 
-To learn basics of Firebase and MUI
+To learn basics of filesystem
